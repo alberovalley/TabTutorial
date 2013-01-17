@@ -76,13 +76,13 @@ public class TabsFragmentActivity extends SherlockFragmentActivity implements Ta
 
 	@Override
 	public void onTabUnselected(Tab tab, FragmentTransaction ft) {
-		// si se necesita hacer algo especial cuando un fragment
+		// si se necesita hacer algo especial cuando un tab
 		// deja de estar seleccionado
 	}
 
 	@Override
 	public void onTabReselected(Tab tab, FragmentTransaction ft) {
-		// si se necesita hacer algo especial cuando un fragment
+		// si se necesita hacer algo especial cuando un tab
 		// vuelve a ser seleccionado
 	}
 	
